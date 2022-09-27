@@ -4,9 +4,9 @@
 
 Interactive web-Demo: [IntempoSilico](https://intemposilico.harmonaise.com)
 
-Artist videos: 
+[//]: #Innovativeperformances: 
 
-System Documentation:
+[//]: #SystemDocumentation:
 
 Artist Acknowledgements: Dirk Stromberg, Pete Kellock, and Lynette Quek
 
