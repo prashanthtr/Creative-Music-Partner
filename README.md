@@ -8,3 +8,6 @@ Artist videos:
 
 System Documentation:
 
+Artist Acknowledgements: Dirk Stromberg, Pete Kellock, and Lynette Quek
+
+Funding Acknowledgement: *National Arts Council, Singapore*
