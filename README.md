@@ -4,7 +4,7 @@
 
 >> Interactive web-Demo: [IntempoSilico](https://intemposilico.harmonaise.com)
 
->> System Manual: (Attached)
+>> System Manual: [Repo](https://github.com/prashanthtr/IntempoSilico/blob/main/Manual-Masse.pdf)
 
 >> Innovativeperformances: [Artist Page](https://dirkstromberg.org/masse-is-an-algorithmic-rhythmic-partner/)
 
